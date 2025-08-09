@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning **Backend with Node.js & MongoDB**
 - 💌 Reach me at **ahmedsherifeg22@gmail.com**
 - 📄 Check my [Resume](https://drive.google.com/file/d/1tupFmH2V1a51YewHbSj-ieCQbD9Z2UaZ/view?usp=sharing)
-- ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
 ---
 
