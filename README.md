@@ -1,66 +1,67 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
-<h3 align="center">Front End Developer | MEAN Stack</h3>
 
----
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-sherif-45349b265/">
-    <img src="https://img.shields.io/badge/-Ahmed%20Sherif-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+<h2 align="center">🛠️ Front End Developer</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedsherifeg22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/SheFo72/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmed-sherif-45349b265/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ahmedsherifeg22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <a href="https://www.facebook.com/SheFo72/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1tupFmH2V1a51YewHbSj-ieCQbD9Z2UaZ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+###
 
-- 🔭 I’m currently working as a **Freelance Frontend Developer**
-- 🌱 I’m currently learning **Backend with Node.js & MongoDB**
-- 💌 Reach me at **ahmedsherifeg22@gmail.com**
-- 📄 Check my [Resume](https://drive.google.com/file/d/1tupFmH2V1a51YewHbSj-ieCQbD9Z2UaZ/view?usp=sharing)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shefo72&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shefo72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shefo72&theme=darkhub&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shefo72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="149" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🛠 Languages and Tools
+<img src="https://raw.githubusercontent.com/shefo72/shefo72/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shefo72&theme=monokai" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shefo72&theme=monokai" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shefo72&theme=monokai" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shefo72&theme=monokai" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shefo72&theme=monokai&utcOffset=3" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"/>
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+###
