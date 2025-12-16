@@ -3,54 +3,54 @@
 ###
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F8B814&center=true&width=435&lines=Front+End+Developer+%7C+React.js;Senior+MIS+Student" alt="Front-End Developer | React.js" />
+<img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=24&pause=1000&color=ABD200&background=0A0F0B00&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Front+End+Developer+%7C+React.js;Senior+MIS+Student" alt="Typing SVG" />
 </p>
 
 <br clear="both">
 
 <div align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html" height="80" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" />
-  <img src="https://skillicons.dev/icons?i=sass" height="80" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="80" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" />
-  <img src="https://skillicons.dev/icons?i=ts" height="80" />
+    <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=sass" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=ts" style="height:90px;" />
 </div>
 
 <div align="center">
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=cpp" height="80" />
-  <img src="https://skillicons.dev/icons?i=react" height="80" />
-  <img src="https://skillicons.dev/icons?i=redux" height="80" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="80" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=redux" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" style="height:90px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="height:90px;" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" style="height:60px;" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=github" style="height:60px;" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=git" style="height:60px;" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="height:60px;" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" style="height:60px;" alt="visualstudio logo" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" style="height:60px;" alt="npm logo" />
+  <img src="https://skillicons.dev/icons?i=linux" style="height:60px;" alt="linux logo" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-sherif-45349b265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.facebook.com/SheFo72" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ##
