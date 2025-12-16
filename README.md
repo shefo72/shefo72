@@ -10,47 +10,47 @@
 
 <div align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" />
+  <img src="https://skillicons.dev/icons?i=sass" height="80" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" />
 </div>
 
 <div align="center">
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="80" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" />
+  <img src="https://skillicons.dev/icons?i=redux" height="80" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="80" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-sherif-45349b265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <a href="https://www.facebook.com/SheFo72" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
 ##
@@ -71,6 +71,7 @@
   <img src="http://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shefo72&theme=merko" />
   <br><br>
 
+  <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://readme-activity-graph.vercel.app/graph?username=shefo72&theme=merko" />
   </a>
