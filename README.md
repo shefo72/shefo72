@@ -72,7 +72,18 @@
   <br><br>
 
   <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://readme-activity-graph.vercel.app/graph?username=shefo72&theme=merko" />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=shefo72&theme=merko"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-activity-graph.vercel.app/graph?username=shefo72&theme=merko&radius=5"
+    width="100%"
+  />
+</p>
+
 </div>
