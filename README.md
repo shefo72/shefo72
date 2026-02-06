@@ -43,14 +43,21 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-sherif-45349b265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ahmed-sherif-eg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="mailto:ahmedsherifeg22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+
   <a href="https://www.facebook.com/SheFo72" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+  <a href="https://discord.com/users/761365054489624606" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
 </div>
 
 ##
@@ -84,6 +91,10 @@
     src="https://readme-activity-graph.vercel.app/graph?username=shefo72&theme=merko&radius=5"
     width="100%"
   />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shefo72/shefo72/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 </div>
